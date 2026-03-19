@@ -76,7 +76,7 @@ const images = [
       <li class="gallery__item">
         <a class="gallery__link" href="${original}">
           <img
-            class="gallery__image"
+            class="gallery-image"
             src="${preview}"
             alt="${description}"
           />
